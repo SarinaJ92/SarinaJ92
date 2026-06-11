@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Sarina 👋
+Security Engineer with 10 years of experience across application security, cloud security, incident response, and AI-enabled security engineering.
+What I work on:
 
-<!--
-**SarinaJ92/SarinaJ92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Security tooling and automation — Python, Go, Bash, GitHub Actions
+☁️ AWS cloud security — GuardDuty, Security Hub, IAM, EKS
+🤖 AI security — risk assessments, prompt injection, OWASP LLM Top 10
+🛡️ Incident response — playbooks, forensics, SOAR pipelines
+🔍 Application security — CVE triage, secrets detection, SAST/DAST/SCA
 
-Here are some ideas to get you started:
+Tools & tech I use regularly:
+Python Go Bash AWS Kubernetes Docker Snyk CrowdStrike Splunk Terraform GitHub Actions
+Certifications:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AWS Certified Solutions Architect Associate (SAA-C03)
+Certified Ethical Hacker (CEH)
+CSA TAISE (in progress)
+
+📍 UK-based | 🌐 Fully remote
